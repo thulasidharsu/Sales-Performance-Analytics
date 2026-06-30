@@ -8,3 +8,4 @@
 8. Applied Conditional Formatting to highlight high-performing sales records.
 9. Performed regression analysis to study the relationship between discounts and sales.
 10. Generated business insights to support better decision-making and improve sales performance.
+<img width="1353" height="572" alt="Screenshot 2026-06-30 002807" src="https://github.com/user-attachments/assets/ab3a378e-252a-42ed-a679-38a29a1b22b8" />
